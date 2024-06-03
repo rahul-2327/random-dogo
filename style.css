@@ -1,0 +1,14 @@
+.main {
+  height: 300px;
+  width: 300px;
+  background-color: rgba(0, 0, 0, 0.311);
+  text-align: center;
+  padding: 10px;
+}
+
+img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
